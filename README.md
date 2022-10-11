@@ -29,23 +29,6 @@
 
 <br>
 
-### 📊 My Stats: 
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=varshaah2407&theme=react" width = "97.5%">
-</p>
-
-<a href="https://github.com/varshaah2407">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaah2407&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Varshaah's Top Languages" />
-
-<a href="https://github.com/varshaah2407">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=varshaah2407&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Varshaah's Stats" />
-</a>
-
-<a href="https://github.com/varshaah2407">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Varshaah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=varshaah2407&theme=neon-dark&hide_border=true"/>
-</a>
-
 ### 👩🏻‍💻 Technologies Worked with:
 
 <p align="left">
@@ -65,9 +48,33 @@
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" title="React JS"/>
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>   
- 
 
 </p>
+
+<br>
+
+### 📊 My Stats: 
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=varshaah2407&theme=react" width = "97.5%">
+</p>
+
+<a href="https://github.com/varshaah2407">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaah2407&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Varshaah's Top Languages" />
+
+<a href="https://github.com/varshaah2407">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=varshaah2407&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Varshaah's Stats" />
+</a>
+
+<a href="https://github.com/varshaah2407">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Varshaah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=varshaah2407&theme=neon-dark&hide_border=true"/>
+</a>
+    
+ ### Holopin Dashboard
+
+[![@varshaah2407's Holopin board](https://holopin.io/api/user/board?user=varshaah_24)](https://holopin.io/@varshaah_24)
+
+
 
 
 <!---
