@@ -31,6 +31,10 @@
 
 ### 📊 My Stats: 
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=varshaah2407&theme=react" width = "97.5%">
+</p>
+
 <a href="https://github.com/varshaah2407">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaah2407&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Varshaah's Top Languages" />
 
