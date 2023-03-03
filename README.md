@@ -1,4 +1,4 @@
-## Hey fellow coders, I am Varshaah! 😀
+# Hey fellow coders, I am Varshaah! 😀
 
 ## I am a Computer Science Undergrad, Artist, Developer and an avid learner! 
 
@@ -19,7 +19,7 @@
     </ul>
 </div>
 
-### 🤝🏻Connect with me:
+## 🤝🏻Connect with me:
 
 <a href="https://www.linkedin.com/in/varshaah-shashidhar/">
 <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 <br>
 
-### 👩🏻‍💻 Technologies Worked with:
+## 👩🏻‍💻 Technologies Worked with:
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
