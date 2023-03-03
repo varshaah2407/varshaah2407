@@ -1,4 +1,4 @@
-### Hey fellow coders, I am Varshaah! 😀
+## Hey fellow coders, I am Varshaah! 😀
 
 ## I am a Computer Science Undergrad, Artist, Developer and an avid learner! 
 
